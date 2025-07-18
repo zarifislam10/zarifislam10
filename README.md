@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zarifislam10/zarifislam10/main/readmebox.svg" alt="ZARIF" height="200"/>
+  <img src="https://raw.githubusercontent.com/zarifislam10/zarifislam10/main/readmebox.svg" alt="ZARIF" height="300"/>
 </div>
 
 <div align="center">
