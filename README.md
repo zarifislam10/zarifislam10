@@ -5,6 +5,7 @@
 
 </div>
 
+---
 ### Rising junior studying Computer Science at CUNY Queens College, CodePath Fellow, full stack developer, and web dev intern at RICH Inc. Dedicated to building robust, user-centered products that blend engineering and creativity to make a positive impact in technology.
 ---
 - 🔥 Focused on full stack, cloud, and AI-driven solutions that solve real-world challenges
