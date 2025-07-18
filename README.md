@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zarifislam10/zarifislam10/main/assets/readmebox.svg" alt="Readme Box"/>
+  <img src="https://raw.githubusercontent.com/zarifislam10/zarifislam10/main/readmebox.svg" alt="Readme Box"/>
 </p>
+
 
 <!--
 **zarifislam10/zarifislam10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
