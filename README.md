@@ -3,13 +3,11 @@
 </div>
 
 <div align="center">
-
-<h1>
-  Hey
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdrY2g4Y2I4OGprNzR3YWxwcmlpYXhjOGd5M3oyMWk0cndianUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif" alt="star" width="45" style="vertical-align:middle"/>
-  I'm Zarif
-</h1>
-
+  <h1>
+    Hey
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdrY2g4Y2I4OGprNzR3YWxwcmlpYXhjOGd5M3oyMWk0cndianUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif" alt="star" width="45" style="vertical-align:middle"/>
+    I'm <a href="https://www.zarifislam.org/" target="_blank" style="color:inherit;text-decoration:underline;">Zarif</a>
+  </h1>
 </div>
 
 <h3 align="center">
