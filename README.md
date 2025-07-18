@@ -1,8 +1,6 @@
 <h1 align="center">
- 
-# Hey 👋, I'm
-
-<img src="https://raw.githubusercontent.com/zarifislam10/zarifislam10/main/readmebox.svg" alt="Readme Box"/>
+  Hey 👋, I'm
+ <img src="https://raw.githubusercontent.com/zarifislam10/zarifislam10/main/readmebox.svg" alt="Readme Box"/>
 </h1>
 
 <h3 align="center">Rising junior studying Computer Science at CUNY Queens College, CodePath Fellow, full stack developer, and web dev intern at RICH Inc. Dedicated to building robust, user-centered products that blend engineering and creativity to make a positive impact in technology.</h3>
