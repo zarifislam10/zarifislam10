@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-Junior studying Computer Science at CUNY Queens College, CodePath Fellow, full stack developer, and ex-swe intern at Researh Fpundation of CUNY. Dedicated to building robust, user-centered products that blend engineering and creativity to make a positive impact in technology.
+Junior studying Computer Science at CUNY Queens College, CodePath Fellow, full stack developer, and ex-swe intern at Researh Fpundation of CUNY, and currently interning at Queens College Tech Incubator. Dedicated to building robust, user-centered products that blend engineering and creativity to make a positive impact in technology.
 </h3>
 
 <p align="left">
@@ -20,7 +20,7 @@ Junior studying Computer Science at CUNY Queens College, CodePath Fellow, full s
 
 🔥 Focused on full stack, cloud, and AI-driven solutions that solve real-world challenges  
 🛠️ Currently building: [LeetCode AI Summarizer](https://github.com/zarifislam10/leetcode-ai-summarizer)  
-💡 Projects and experience at [RICH Inc.](https://www.richinc.org/RICH/interns.html)  
+💡 See my Reseacrh Foundation of CUNY experience at [RICH Inc.](https://www.richinc.org/RICH/interns.html)  
 🌱 Always learning: React, Flask, SQL, cloud, and fashion tech  
 🎨 Fun fact: On weekends, I’m either digging for thrifted gems or sketching new ideas in my notebook. [See what I draw](https://www.zarifislam.org/#creative)     
 
