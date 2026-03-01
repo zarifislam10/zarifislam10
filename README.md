@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-Junior studying Computer Science at CUNY Queens College, CodePath Fellow, full stack developer, and ex-swe intern at Researh Fpundation of CUNY, and currently interning at Queens College Tech Incubator. Dedicated to building robust, user-centered products that blend engineering and creativity to make a positive impact in technology.
+Junior studying Computer Science at CUNY Queens College, currently interning at Queens College Tech Incubator. Dedicated to building robust, user-centered products that blend engineering and creativity to make a positive impact in technology.
 </h3>
 
 <p align="left">
