@@ -19,7 +19,7 @@ Junior studying Computer Science at CUNY Queens College, currently interning at 
 </p>
 
 🔥 Focused on full stack, cloud, and AI-driven solutions that solve real-world challenges  
-🛠️ Currently building: [LeetCode AI Summarizer](https://github.com/zarifislam10/leetcode-ai-summarizer)  
+🛠️ Currently building: [LeetStar](https://github.com/zarifislam10/leetcode-ai-summarizer)  
 💡 See my Research Foundation of CUNY experience at [RICH Inc.](https://www.richinc.org/RICH/interns.html)  
 🌱 Always learning: React, Flask, SQL, cloud, and fashion tech  
 🎨 Fun fact: On weekends, I’m either digging for thrifted gems or sketching new ideas in my notebook. [See what I draw](https://www.zarifislam.org/#creative)     
